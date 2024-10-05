@@ -83,7 +83,7 @@ We welcome contributions to expand the repository with more recipes. If you have
 
 ## 👩‍🍳 Author
 
-Created and maintained by **[CODAWALLAH}**, a culinary enthusiast and developer, combining the passion for code and cuisine.
+Created and maintained by **CODAWALLAH** by Mohd. Anash, a culinary enthusiast and developer, combining the passion for code and cuisine.
 
 ## 📬 Contact
 
