@@ -88,7 +88,7 @@ Created and maintained by **[CODAWALLAH}**, a culinary enthusiast and developer,
 
 For any queries, suggestions, or feedback, feel free to reach out:
 - Email: mohd.anash.niu@gmail.com
-- Website: [bio.site/cipherwizardanash](https://bio.site/cipherwizardanash)
+- Website: https://bio.site/cipherwizardanash
 
 ---
 
