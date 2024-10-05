@@ -74,6 +74,7 @@ The repository is organized into folders by cuisine type, with each folder conta
 │
 └── From All India
     └── Chocolate Cake
+```
 
 
 ## ✨ Contribution
