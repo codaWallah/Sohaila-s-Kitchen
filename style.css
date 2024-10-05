@@ -1,8 +1,8 @@
 /* General styles */
 body {
    background-color: #f0f0f0;
-   background-image: url('BG.jpg'); /* add this line */
-   background-size: cover; /* optional, to scale the image to cover the entire background */
+   background-image: url('https://i.postimg.cc/NjmsMz0g/BG.jpg'); 
+   background-size: cover; 
    font-family: 'Arial', sans-serif;
    margin: 0;
    padding: 40px;
